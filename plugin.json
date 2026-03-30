@@ -1,0 +1,12 @@
+{
+  "id": "nextCloudWidget",
+  "name": "NextCloud",
+  "description": "Launches the NextCloud app",
+  "version": "1.0.0",
+  "author": "strixrox",
+  "icon": "folder",
+  "type": "widget",
+  "component": "./NextCloudWidget.qml",
+  "settings": "./Settings.qml",
+  "permissions": ["settings_read", "settings_write"]
+}
